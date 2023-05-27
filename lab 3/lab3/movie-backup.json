@@ -1,0 +1,29 @@
+{
+  "movies":[
+    {
+      "id":1,
+      "title":"iron man",
+      "category":"action",
+      "rate":5
+    },
+    {
+      "id":2,
+      "title":"spider man",
+      "category":"action",
+      "rate":4
+    },
+
+    {
+      "id":3,
+      "title":"super man",
+      "category":"action",
+      "rate":3
+    },
+    {
+      "id":4,
+      "title":"Thor",
+      "category":"adventure",
+      "rate":5
+    }
+  ]
+}
